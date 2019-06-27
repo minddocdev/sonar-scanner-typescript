@@ -9,7 +9,7 @@ docker run -it minddocdev/sonar-scanner-typescript
 
 ### `docker pull`
 
-You can pull the image from Docker Hub using the `docker pull minddocdev/node-alpine-ci` command. We are using [automated build set up](https://docs.docker.com/docker-hub/builds/#create-an-automated-build).
+You can pull the image from Docker Hub using the `docker pull minddocdev/sonar-scanner-typescript` command. We are using [automated build set up](https://docs.docker.com/docker-hub/builds/#create-an-automated-build).
 
 ```sh
 docker pull minddocdev/sonar-scanner-typescript
